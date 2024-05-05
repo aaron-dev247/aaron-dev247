@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on building a self-driving car simulation using JavaScript (without any libraries).
+🌱 I’m currently learning about basic neural networks. 
+👋 I’m looking for a job as a software engineer or data analyst.
+📫 You can reach me at: aaron.dev.247@gmail.com
