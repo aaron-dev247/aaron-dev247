@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 👋 I’m looking for a job as a software engineer or data analyst.
 
-📫 You can reach me at: aaron.dev.247@gmail.com
+📫 You can reach me at: aaron.dev247@gmail.com
